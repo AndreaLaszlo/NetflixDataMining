@@ -29,6 +29,7 @@ Firstly I needed to find the outliers, then convert the numerical data to the sa
 
 After I explored the data I visualized the outcomes, and also beforehand the distribution of the data.
 
+
 ### Made by:
 **László Andrea**
 2026
